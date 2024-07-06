@@ -8,18 +8,17 @@ Hello and welcome!
 
 National 5 Maths is designed to give you a solid foundation in essential maths concepts that you'll find useful both in everyday life and in future studies. By diving into this subject, you'll develop top-notch problem-solving skills and learn to think critically, which are invaluable no matter what path you choose.
 
-This resource aims to help students better understand and enjoy Maths!
+This website is a collection of tutorials that will take you through each topic in National 5 Maths.
 
 ## Course Content
 
-The course is split up into 6 main sections:
+The course is split up into 5 main sections:
 
-- Numerical Skills
-- Algebraic Skills
-- Geometric Skills
-- Trigonometric Skills
-- Statistical Skills
-- Reasoning Skills
+- Numeracy
+- Algebra
+- Geometry
+- Trigonometry
+- Statistics
 
 ## Course Assessment
 
